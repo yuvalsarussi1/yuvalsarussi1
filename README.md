@@ -15,3 +15,7 @@ Currently focusing on building **projects from scratch** to strengthen my skills
 
 ## 📫 Connect
 - [LinkedIn](https://www.linkedin.com/in/yuval-sarussi-a5900b373/)
+
+## 🚀 Projects
+
+[![Chess Bitboard Engine](chessboard_1280x640_compressed.jpg)](https://github.com/yuvalsarussi1/chess-bitboard-engine)
