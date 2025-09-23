@@ -14,4 +14,4 @@ Currently focusing on building **projects from scratch** to strengthen my skills
 - AI & machine learning basics  
 
 ## 📫 Connect
-- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/yuval-sarussi-a5900b373/))  
+- [LinkedIn](https://www.linkedin.com/in/yuval-sarussi-a5900b373/)
