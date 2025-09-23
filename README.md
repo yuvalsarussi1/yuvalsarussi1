@@ -18,4 +18,14 @@ Currently focusing on building **projects from scratch** to strengthen my skills
 
 ## 🚀 Projects
 
-[![Chess Bitboard Engine](chessboard_1280x640_compressed.jpg)](https://github.com/yuvalsarussi1/chess-bitboard-engine)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/yuvalsarussi1/chess-bitboard-engine">
+        <img src="chessboard_1280x640_compressed.jpg" width="320px" alt="Chess Bitboard Engine"/><br />
+        <sub><b>Chess Bitboard Engine</b></sub>
+      </a>
+    </td>
+    <!-- Add more project cards like this one -->
+  </tr>
+</table>
