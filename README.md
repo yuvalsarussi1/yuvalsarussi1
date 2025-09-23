@@ -21,7 +21,7 @@ Currently focusing on building **projects from scratch** to strengthen my skills
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/yuvalsarussi1/chess-bitboard-engine">
+      <a href="https://github.com/yuvalsarussi1/Chess_engine-Bit_board-">
         <img src="https://raw.githubusercontent.com/yuvalsarussi1/Chess_engine-Bit_board-/main/chessboard_1280x640_compressed.jpg" width="320px" alt="Chess Bitboard Engine"/><br />
         <sub><b>Chess Bitboard Engine</b></sub>
       </a>
