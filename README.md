@@ -1,22 +1,22 @@
-# Hi, I'm Yuval Sarussi 👋
+# Hi, I'm Yuval Sarussi 
 
 I’m a developer passionate about **Python, algorithms, and system design**.  
 Currently focusing on building **projects from scratch** to strengthen my skills in coding, optimization, and clean architecture.
 
-## 🛠️ Tech Focus
+## Tech Focus
 - Python (core projects, chess engine, simulations)  
 - Algorithms & Data Structures  
 - System design and software architecture  
 
-## 🌱 Currently Learning
+## Currently Learning
 - Advanced Python practices  
 - Performance optimization in code  
 - AI & machine learning basics  
 
-## 📫 Connect
+## Connect
 - [LinkedIn](https://www.linkedin.com/in/yuval-sarussi-a5900b373/)
 
-## 🚀 Projects
+## Projects
 
 <table>
   <tr>
@@ -26,6 +26,12 @@ Currently focusing on building **projects from scratch** to strengthen my skills
         <b><h3>Chess Bitboard Engine</h3></b>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/yuvalsarussi1/Maze-Solver">
+        <img src="https://raw.githubusercontent.com/yuvalsarussi1/Maze-Solver/main/ImageMazeSolved.PNG" width="320px" alt="Maze Solver (Image Output)"/><br />
+        <img src="https://raw.githubusercontent.com/yuvalsarussi1/Maze-Solver/main/TerminalMazeSolved.png" width="320px" alt="Maze Solver (Terminal Output)"/><br />
+        <b><h3>Maze Solver</h3></b>
+      </a>
+    </td>
   </tr>
 </table>
-
