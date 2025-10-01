@@ -28,8 +28,8 @@ Currently focusing on building **projects from scratch** to strengthen my skills
     </td>
     <td align="center">
   <a href="https://github.com/yuvalsarussi1/MAZE">
-    <img src="https://raw.githubusercontent.com/yuvalsarussi1/MAZE/main/ImageMazeSolved.PNG" width="320px" alt="Maze Solver (Image Output)"/><br />
-    <img src="https://raw.githubusercontent.com/yuvalsarussi1/MAZE/main/TerminalMazeSolved.png" width="320px" alt="Maze Solver (Terminal Output)"/><br />
+    <img src="https://raw.githubusercontent.com/yuvalsarussi1/MAZE/main/ImageMazeSolved.PNG" width="200px" alt="Maze Solver (Image Output)"/><br />
     <b><h3>Maze Solver</h3></b>
   </a>
 </td>
+
